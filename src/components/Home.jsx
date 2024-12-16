@@ -41,7 +41,15 @@ const Home = () => {
         /></h1>
         </div>
         <br />
-        <p className="text-sm md:text-md text-justify">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga, repellat voluptatem iusto animi labore tenetur ea, odio accusamus error incidunt maiores pariatur. Perspiciatis optio, temporibus expedita dolore at soluta rem?</p>
+        <p className="text-sm md:text-md text-justify">
+Devendra Risal is a skilled Electronics, Communication, and Information Engineer with a strong passion for technology and innovation. With a robust foundation in electronics and communication systems, Devendra has expanded his expertise into web development, blending technical proficiency with creative problem-solving. His multidisciplinary background enables him to design and implement cutting-edge solutions, from hardware-level systems to dynamic web applications. Driven by a commitment to continuous learning, he thrives on tackling complex challenges and delivering efficient, user-friendly solutions in the ever-evolving tech landscape.
+
+
+
+
+
+
+</p>
     <br />
     {/*social media icon*/}
     <div className="flex  space-x-16  space-y-0 md:space-y-0 ">

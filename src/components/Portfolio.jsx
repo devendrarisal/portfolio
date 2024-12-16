@@ -60,7 +60,7 @@ const Portfolio = () => {
                              <img src={logo} className='w-[120px] h-[120px] p-1 rounded-full border-[2px]' alt="" />
                              <div>
                               <div className='font-bold text-xl mb-2 px-2'>{name}</div>
-                              <div className='px-2 text-gray-700'>Lorem ipsum dolor sit amet consectetur adipisicing elit. </div>
+                              
                               <div className=' justify-around space-x-3 py-3 p-2'>
                                 <button className='bg-blue-500 hover:bg-blue-700 text-white px-4 py-2 font-bold rounded'>Vedio</button>
                                 <button className='bg-green-500 hover:bg-green-700 text-white px-4 py-2 font-bold rounded'>Source Code</button>
